@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,12 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# Retail Sales Dashboard
+
+## Day 1 Progress
+- Created project folders: backend, frontend, data
+- Added sample sales.csv dataset
+- Setup Python Flask backend with virtual environment
+- Created `/api/health` endpoint to test server
+>>>>>>> 77210ba143bd3f7cd41154d8e3371f759a17e12f
